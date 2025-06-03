@@ -1,0 +1,12 @@
+.card{
+    color: white;
+    background-color: black;
+}
+.part{
+    background-color: yellow;
+}
+.card,
+.part {
+    font-size: 28px;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+}
