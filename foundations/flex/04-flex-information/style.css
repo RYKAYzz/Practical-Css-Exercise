@@ -24,3 +24,24 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.container {
+  height:400px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  
+}
+
+.header{
+  display:flex;
+  flex-direction:column;
+}
+.title{
+  align-self:center;
+}
+.mypic, .mytext{
+  
+  display:flex;
+  justify-content:space-around
+}
